@@ -37,7 +37,8 @@ jobs:
             any::dplyr
             any::knitr
             any::rmarkdown
-
+            any::readr
+            
       - name: Renderizar sitio
         run: quarto render
 
