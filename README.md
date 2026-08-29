@@ -4,10 +4,10 @@ Aquí voy a ir documentando lo que tenemos que hacer
 
 Para esta version muy básica sólo necesitaremos crear 3 archivos:
 
-Archivo de configuracion de Quarto que forzosamente se tiene que llamar "_quarto.yml"
-Archivo de Quarto (.qmd) donde pondremos el contenido de nuestro fabuloso reporte. Que mandatoriamente se debe llamar "index.qmd"
-Archivo de configuración de una acción de GitHub que le da instrucciones para renderear nuestro sitio
-Adicionalmente "picaremos" unos botones acá en GitHub para la magia suceda
+1. Archivo de configuracion de Quarto que forzosamente se tiene que llamar "_quarto.yml"
+2. Archivo de Quarto (.qmd) donde pondremos el contenido de nuestro fabuloso reporte. Que mandatoriamente se debe llamar "index.qmd"
+3. Archivo de configuración de una acción de GitHub que le da instrucciones para renderear nuestro sitio
+4. Adicionalmente "picaremos" unos botones acá en GitHub para la magia suceda
 
 - Paso 1: Crear el archivo "_quarto.yml"
 - Paso 2: Crear el archivo "index.qmd"
