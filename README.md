@@ -1,1 +1,15 @@
 # fabuloso-_reporte2
+
+Aquí voy a ir documentando lo que tenemos que hacer
+
+Para esta version muy básica sólo necesitaremos crear 3 archivos:
+
+Archivo de configuracion de Quarto que forzosamente se tiene que llamar "_quarto.yml"
+Archivo de Quarto (.qmd) donde pondremos el contenido de nuestro fabuloso reporte. Que mandatoriamente se debe llamar "index.qmd"
+Archivo de configuración de una acción de GitHub que le da instrucciones para renderear nuestro sitio
+Adicionalmente "picaremos" unos botones acá en GitHub para la magia suceda
+
+Paso 1: Crear el archivo "_quarto.yml"
+Paso 2: Crear el archivo "index.qmd"
+Paso 3: Picar botones aquí en GitHub. Setting -> Pages -> GitHub Actions
+Paso 4: Crear el archivo de configuración de la acción de GitHub que construirá y desplegará nuestro sitio. Este archivo debe estar dentro de carpetas con nombres muy específicos
